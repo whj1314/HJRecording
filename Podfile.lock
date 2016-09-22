@@ -1,0 +1,32 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - MJRefresh (3.1.12)
+  - RESideMenu (4.0.7)
+
+DEPENDENCIES:
+  - BlocksKit
+  - MJRefresh
+  - RESideMenu
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+
+PODFILE CHECKSUM: f9f6865d783fe37378fda127346fcb68e842dd1d
+
+COCOAPODS: 1.0.1
